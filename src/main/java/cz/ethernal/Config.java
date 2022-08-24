@@ -2,7 +2,7 @@ package cz.ethernal;
 
 public class Config {
 
-    public static String token = "MTAxMTY0NjQ4OTIyNDgxODc3OQ.GtMKk2.HTIESTGDxjNv6GRq2C9cGmWMeA5_xNUstTCkzc";
+    public static String token = "MTAxMTY0NjQ4OTIyNDgxODc3OQ.GLk5h2.IQ3WiW3-Gd2aIz0qXvRJrwVabk0G4P886Px93A";
     public static String guild_id = "975868220839960686";
 
     public static String id_majitele = "468826876572467210";
