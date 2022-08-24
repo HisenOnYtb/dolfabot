@@ -1,1 +1,1 @@
-Worker: java BisenBot/src/main/java/cz/ethernal/Main.java
+Worker: java src/main/java/cz/ethernal/Main.java
